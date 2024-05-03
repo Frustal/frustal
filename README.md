@@ -22,11 +22,11 @@ Personal Email: dmytrosymovony@gmail.com
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-![Python](https://img.shields.io/badge/Unity-orange?logo=python)
-![PyTorch](https://img.shields.io/badge/Unity-orange?logo=pytorch)
+![Python](https://img.shields.io/badge/Python-green?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-green?logo=pytorch)
 ![Unity](https://img.shields.io/badge/Unity-orange?logo=unity)
-![C#](https://img.shields.io/badge/C%20Sharp-green?logo=csharp)
+![C#](https://img.shields.io/badge/C%20Sharp-yellow?logo=csharp)
 
 Also Familiar with:
 ![C++](https://img.shields.io/badge/C++-grey?logo=cplusplus)
-![C](https://img.shields.io/badge/C++-grey?logo=c)
+![C](https://img.shields.io/badge/C-grey?logo=c)
