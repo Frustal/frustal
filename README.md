@@ -23,6 +23,7 @@ Personal Email: dmytrosymovony@gmail.com
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
+Actively using:
 ![Python](https://img.shields.io/badge/Python-green?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-green?logo=pytorch)
 ![Unity](https://img.shields.io/badge/Unity-orange?logo=unity)
