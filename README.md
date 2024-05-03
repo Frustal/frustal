@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Frustal (Dmytro Symovonyk)</h1>
+<h1 align="left">Hi 👋 I'm Frustal (Dmytro Symovonyk)</h1>
 
 # 💬 About Me:
 AI Engineering Student at JKU & Unity C# Developer.
