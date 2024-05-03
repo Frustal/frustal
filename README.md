@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋 I'm Frustal (Dmytro Symovonyk)</h1>
 
 # 💬 About Me:
-AI Engineering Student at JKU & Unity C# Developer.
+AI Engineering Student at JKU & Unity C# Developer
 
 Currently developing games with Flat Surface Studio
 
