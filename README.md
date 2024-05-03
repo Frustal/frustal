@@ -2,6 +2,7 @@
 
 # 💬 About Me:
 AI Engineering Student at JKU & Unity C# Developer.
+
 Currently developing games with Flat Surface Studio
 
 ## 👨‍💻 I am currently working on:
