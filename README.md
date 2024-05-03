@@ -21,6 +21,7 @@ Personal Email: dmytrosymovony@gmail.com
 [Linked In](https://www.linkedin.com/in/dmytro-symovonyk-b6353b1ba/)
 
 <h3 align="left">💻 Languages and Tools:</h3>
+
 ![Python](https://img.shields.io/badge/Unity-orange?logo=python)
 ![PyTorch](https://img.shields.io/badge/Unity-orange?logo=pytorch)
 ![Unity](https://img.shields.io/badge/Unity-orange?logo=unity)
