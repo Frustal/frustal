@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋 I'm Frustal (Dmytro Symovonyk)</h1>
 
-# About Me:
+# 💬 About Me:
 AI Engineering Student at JKU & Unity C# Developer.
 Currently developing games with Flat Surface Studio
 
-## I am currently working on:
+## 👨‍💻 I am currently working on:
 - First full-fledged ML project
 - Flashing Dark - 3D Horror game [Steam](https://store.steampowered.com/app/2838490/Flashing_Dark/) 
 
