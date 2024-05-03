@@ -13,7 +13,7 @@ Already released:
 - Python YouTube monetization manager bot
 
 ##🌱 I’m currently learning:
-- PyTorch, NumPy, Pandas
+- PyTorch, NumPy, Pandas, Seaborn
 
 ## 🌐 Connect with me:
 Personal Email: dmytrosymovony@gmail.com
