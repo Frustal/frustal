@@ -5,7 +5,7 @@ AI Engineering Student at JKU & Unity C# Developer.
 Currently developing games with Flat Surface Studio
 
 ## I am currently working on:
-- First ML project
+- First full-fledged ML project
 - Flashing Dark - 3D Horror game [Steam](https://store.steampowered.com/app/2838490/Flashing_Dark/) 
 
 Already released:
@@ -17,6 +17,7 @@ Already released:
 
 ## 🌐 Connect with me:
 Personal Email: dmytrosymovony@gmail.com
+
 [Linked In](https://www.linkedin.com/in/dmytro-symovonyk-b6353b1ba/)
 
 <h3 align="left">Languages and Tools:</h3>
