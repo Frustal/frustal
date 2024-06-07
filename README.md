@@ -17,7 +17,7 @@ Already released:
 - PyTorch, NumPy, Pandas, Seaborn
 
 ## 🌐 Connect with me:
-Personal Email: dmytrosymovony@gmail.com
+Personal Email: dmytrosymovonyk@gmail.com
 
 [Linked In](https://www.linkedin.com/in/dmytro-symovonyk-b6353b1ba/)
 
